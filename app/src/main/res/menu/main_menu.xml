@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_github"
+        android:icon="@drawable/ic_github"
+        android:title="@string/github"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menu_youtube"
+        android:icon="@drawable/ic_youtube"
+        android:title="@string/youtube"
+        app:showAsAction="collapseActionView" />
+</menu>

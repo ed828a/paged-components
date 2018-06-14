@@ -21,4 +21,7 @@
     <string name="search_hint">GitHub Repository</string>
     <string name="no_results">No results 😓</string>
     <string name="unknown">\?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="github">Github</string>
+    <string name="youtube">Youtube</string>
 </resources>
